@@ -67,7 +67,7 @@ model='llama3.2-vision' created_at='2024-12-30T16:19:28.3660872Z' done=True done
 
 ## Running the Tests
 
-1. Place the respective script (`.py`) and image (`.jpg`) in the same directory.
+1. Locate the respective script (`.py`) and make sure the images (`.jpg`) are found in the `img/` directory.
 2. Execute the script using Python: `python vision.py`
 
 ## Notes
