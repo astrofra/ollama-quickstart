@@ -83,16 +83,15 @@ model='llama3.2-vision' created_at='2024-12-30T16:19:28.3660872Z' done=True done
 
 ... or in a more readable way:
 
-```
-The image shows a photograph of Barack Obama's swearing-in ceremony as the 44th President of the United States. The image is taken from behind, and it shows Michelle Obama standing next to him.
-
-In the foreground, there are several people visible. On the left side of the image, there is a woman in a purple coat with her back turned towards the camera. She appears to be taking a photo or video of the ceremony using her phone. Next to her is a man in a black suit and tie, who seems to be observing the proceedings.
-
-In the center of the image, Barack Obama stands tall, his right hand raised in a solemn gesture as he takes the oath of office. He wears a dark blue suit with a white shirt and a light blue tie. His left hand rests on a Bible, which is held by someone out of frame to the right.
-
-To Obama's left, Michelle Obama stands proudly beside him, her eyes fixed intently on the proceedings. She wears a navy blue coat dress with a patterned design and matching gloves. Her hair is styled in a sleek bob, and she carries herself with poise and confidence.
-
-Behind them, a crowd of people can be seen gathered around the stage or podium where the ceremony is taking place. They appear to be dignitaries, politicians, or other officials who have come to witness this historic moment. Some of them are smiling or applauding, while others look more serious or contemplative.
+> The image shows a photograph of Barack Obama's swearing-in ceremony as the 44th President of the United States. The image is taken from behind, and it shows Michelle Obama standing next to him.
+>
+> In the foreground, there are several people visible. On the left side of the image, there is a woman in a purple coat with her back turned towards the camera. She appears to be taking a photo or video of the ceremony using her phone. Next to her is a man in a black suit and tie, who seems to be observing the proceedings.
+>
+> In the center of the image, Barack Obama stands tall, his right hand raised in a solemn gesture as he takes the oath of office. He wears a dark blue suit with a white shirt and a light blue tie. His left hand rests on a Bible, which is held by someone out of frame to the right.
+>
+> To Obama's left, Michelle Obama stands proudly beside him, her eyes fixed intently on the proceedings. She wears a navy blue coat dress with a patterned design and matching gloves. Her hair is styled in a sleek bob, and she carries herself with poise and confidence.
+> 
+> Behind them, a crowd of people can be seen gathered around the stage or podium where the ceremony is taking place. They appear to be dignitaries, politicians, or other officials who have come to witness this historic moment. Some of them are smiling or applauding, while others look more serious or contemplative.
 
 Overall, the image captures a powerful and emotional moment in American history, as Barack Obama begins his presidency with a sense of hope and optimism for the future.
 ```
