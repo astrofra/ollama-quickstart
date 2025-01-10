@@ -92,8 +92,8 @@ model='llama3.2-vision' created_at='2024-12-30T16:19:28.3660872Z' done=True done
 > To Obama's left, Michelle Obama stands proudly beside him, her eyes fixed intently on the proceedings. She wears a navy blue coat dress with a patterned design and matching gloves. Her hair is styled in a sleek bob, and she carries herself with poise and confidence.
 > 
 > Behind them, a crowd of people can be seen gathered around the stage or podium where the ceremony is taking place. They appear to be dignitaries, politicians, or other officials who have come to witness this historic moment. Some of them are smiling or applauding, while others look more serious or contemplative.
-
-Overall, the image captures a powerful and emotional moment in American history, as Barack Obama begins his presidency with a sense of hope and optimism for the future.
+> 
+> Overall, the image captures a powerful and emotional moment in American history, as Barack Obama begins his presidency with a sense of hope and optimism for the future.
 ```
 
 ## Running the Tests
